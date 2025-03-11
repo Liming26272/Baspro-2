@@ -43,9 +43,9 @@ print("Nama       : ",nama)
 print("NIK        : ",nik)
 print("Status     : ",status)
 print("Gologan    : ",golongan)
-print("Gaji       : ", gaji)
-print("Bonus      : ", bonus)
-print("Total gaji : ", total)
+print("Gaji       :  Rp.", gaji)
+print("Bonus      :  Rp.", bonus)
+print("Total gaji :  Rp.", total)
 
       
     
